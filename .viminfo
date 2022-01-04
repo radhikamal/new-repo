@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1641303862,,"wq"
+|2,0,1641303947,,"wq"
 
 # Search String History (newest to oldest):
 ? @$
@@ -28,36 +28,40 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-""0	CHAR	0
+"0	CHAR	0
 	1
-|3,1,0,0,1,0,1639831711,"1"
-"-	BLOCK	5
-	./    
-|3,0,36,2,1,5,1639831711,"./    "
+|3,0,0,0,1,0,1639831711,"1"
+""-	CHAR	0
+	1
+|3,1,36,0,1,0,1641303932,"1"
 
 # File marks:
-'0  1  17  ~/file2
-|4,48,1,17,1641303862,"~/file2"
-'1  1  12  ~/file1
-|4,49,1,12,1641303755,"~/file1"
-'2  3  0  /var/lib/jenkins/.ssh/authorized_keys
-|4,50,3,0,1640601739,"/var/lib/jenkins/.ssh/authorized_keys"
-'3  3  602  ~/.ssh/authorized_keys
-|4,51,3,602,1640600696,"~/.ssh/authorized_keys"
-'4  1  602  /usr/lib/jenkins/.ssh/authorised_keys
-|4,52,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
-'5  1  13  ~/dy/a
-|4,53,1,13,1639834186,"~/dy/a"
-'6  1  3  ~/dy/a
-|4,54,1,3,1639834097,"~/dy/a"
-'7  1  18  ~/dy/a
-|4,55,1,18,1639834050,"~/dy/a"
+'0  1  4  ~/file1
+|4,48,1,4,1641303947,"~/file1"
+'1  1  17  ~/file2
+|4,49,1,17,1641303862,"~/file2"
+'2  1  12  ~/file1
+|4,50,1,12,1641303755,"~/file1"
+'3  3  0  /var/lib/jenkins/.ssh/authorized_keys
+|4,51,3,0,1640601739,"/var/lib/jenkins/.ssh/authorized_keys"
+'4  3  602  ~/.ssh/authorized_keys
+|4,52,3,602,1640600696,"~/.ssh/authorized_keys"
+'5  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,53,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+'6  1  13  ~/dy/a
+|4,54,1,13,1639834186,"~/dy/a"
+'7  1  3  ~/dy/a
+|4,55,1,3,1639834097,"~/dy/a"
 '8  1  18  ~/dy/a
 |4,56,1,18,1639834050,"~/dy/a"
-'9  1  0  ~/dy/a
-|4,57,1,0,1639833974,"~/dy/a"
+'9  1  18  ~/dy/a
+|4,57,1,18,1639834050,"~/dy/a"
 
 # Jumplist (newest first):
+-'  1  4  ~/file1
+|4,39,1,4,1641303947,"~/file1"
+-'  1  17  ~/file2
+|4,39,1,17,1641303862,"~/file2"
 -'  1  17  ~/file2
 |4,39,1,17,1641303862,"~/file2"
 -'  1  12  ~/file1
@@ -72,6 +76,22 @@ $
 |4,39,3,0,1640601739,"/var/lib/jenkins/.ssh/authorized_keys"
 -'  3  0  /var/lib/jenkins/.ssh/authorized_keys
 |4,39,3,0,1640601739,"/var/lib/jenkins/.ssh/authorized_keys"
+-'  3  0  /var/lib/jenkins/.ssh/authorized_keys
+|4,39,3,0,1640601739,"/var/lib/jenkins/.ssh/authorized_keys"
+-'  3  0  /var/lib/jenkins/.ssh/authorized_keys
+|4,39,3,0,1640601739,"/var/lib/jenkins/.ssh/authorized_keys"
+-'  3  0  /var/lib/jenkins/.ssh/authorized_keys
+|4,39,3,0,1640601739,"/var/lib/jenkins/.ssh/authorized_keys"
+-'  3  0  /var/lib/jenkins/.ssh/authorized_keys
+|4,39,3,0,1640601739,"/var/lib/jenkins/.ssh/authorized_keys"
+-'  1  0  /var/lib/jenkins/.ssh/authorized_keys
+|4,39,1,0,1640601720,"/var/lib/jenkins/.ssh/authorized_keys"
+-'  1  0  /var/lib/jenkins/.ssh/authorized_keys
+|4,39,1,0,1640601720,"/var/lib/jenkins/.ssh/authorized_keys"
+-'  1  0  /var/lib/jenkins/.ssh/authorized_keys
+|4,39,1,0,1640601720,"/var/lib/jenkins/.ssh/authorized_keys"
+-'  1  0  /var/lib/jenkins/.ssh/authorized_keys
+|4,39,1,0,1640601720,"/var/lib/jenkins/.ssh/authorized_keys"
 -'  1  0  /var/lib/jenkins/.ssh/authorized_keys
 |4,39,1,0,1640601720,"/var/lib/jenkins/.ssh/authorized_keys"
 -'  1  0  /var/lib/jenkins/.ssh/authorized_keys
@@ -96,6 +116,38 @@ $
 |4,39,3,602,1640600696,"~/.ssh/authorized_keys"
 -'  3  602  ~/.ssh/authorized_keys
 |4,39,3,602,1640600696,"~/.ssh/authorized_keys"
+-'  3  602  ~/.ssh/authorized_keys
+|4,39,3,602,1640600696,"~/.ssh/authorized_keys"
+-'  3  602  ~/.ssh/authorized_keys
+|4,39,3,602,1640600696,"~/.ssh/authorized_keys"
+-'  3  602  ~/.ssh/authorized_keys
+|4,39,3,602,1640600696,"~/.ssh/authorized_keys"
+-'  3  602  ~/.ssh/authorized_keys
+|4,39,3,602,1640600696,"~/.ssh/authorized_keys"
+-'  3  602  ~/.ssh/authorized_keys
+|4,39,3,602,1640600696,"~/.ssh/authorized_keys"
+-'  3  602  ~/.ssh/authorized_keys
+|4,39,3,602,1640600696,"~/.ssh/authorized_keys"
+-'  3  602  ~/.ssh/authorized_keys
+|4,39,3,602,1640600696,"~/.ssh/authorized_keys"
+-'  3  602  ~/.ssh/authorized_keys
+|4,39,3,602,1640600696,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1640600639,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1640600639,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1640600639,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1640600639,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1640600639,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1640600639,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1640600639,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1640600639,"~/.ssh/authorized_keys"
 -'  1  0  ~/.ssh/authorized_keys
 |4,39,1,0,1640600639,"~/.ssh/authorized_keys"
 -'  1  0  ~/.ssh/authorized_keys
@@ -144,6 +196,38 @@ $
 |4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
 -'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
 |4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
 -'  1  13  ~/dy/a
 |4,39,1,13,1639834186,"~/dy/a"
 -'  1  13  ~/dy/a
@@ -174,92 +258,17 @@ $
 |4,39,1,13,1639834186,"~/dy/a"
 -'  1  13  ~/dy/a
 |4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  13  ~/dy/a
-|4,39,1,13,1639834186,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
--'  1  3  ~/dy/a
-|4,39,1,3,1639834097,"~/dy/a"
 
 # History of marks within files (newest to oldest):
+
+> ~/file1
+	*	1641303945	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	0
+	+	2	33
+	+	1	4
 
 > ~/file2
 	*	1641303861	0
@@ -267,15 +276,6 @@ $
 	^	1	18
 	.	1	17
 	+	1	17
-
-> ~/file1
-	*	1641303753	0
-	"	1	12
-	^	1	13
-	.	1	12
-	+	1	0
-	+	2	33
-	+	1	12
 
 > /var/lib/jenkins/.ssh/authorized_keys
 	*	1640601737	0
