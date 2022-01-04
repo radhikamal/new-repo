@@ -10,11 +10,16 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
 :wq
-|2,0,1639678872,,"wq"
+|2,0,1641303755,,"wq"
 
 # Search String History (newest to oldest):
+? @$
+|2,1,1639831647,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -23,235 +28,388 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""-	CHAR	0
-	.
-|3,1,36,0,1,0,1639676431,"."
+""0	CHAR	0
+	1
+|3,1,0,0,1,0,1639831711,"1"
+"-	BLOCK	5
+	./    
+|3,0,36,2,1,5,1639831711,"./    "
 
 # File marks:
-'0  1  11  ~/radhika/key3
-|4,48,1,11,1639678872,"~/radhika/key3"
-'1  1  11  ~/radhika/key2
-|4,49,1,11,1639678852,"~/radhika/key2"
-'2  1  11  ~/radhika/key1
-|4,50,1,11,1639678823,"~/radhika/key1"
-'3  1  18  ~/radhika/college3
-|4,51,1,18,1639678644,"~/radhika/college3"
-'4  1  18  ~/radhika/college2
-|4,52,1,18,1639678602,"~/radhika/college2"
-'5  1  18  ~/radhika/college2
-|4,53,1,18,1639678578,"~/radhika/college2"
-'6  2  0  ~/radhika/college1
-|4,54,2,0,1639678530,"~/radhika/college1"
-'7  4  0  ~/radhika/college
-|4,55,4,0,1639677108,"~/radhika/college"
-'8  1  16  ~/radhika/college
-|4,56,1,16,1639676855,"~/radhika/college"
-'9  2  16  ~/radhika/college
-|4,57,2,16,1639676855,"~/radhika/college"
+'0  1  12  ~/file1
+|4,48,1,12,1641303755,"~/file1"
+'1  3  0  /var/lib/jenkins/.ssh/authorized_keys
+|4,49,3,0,1640601739,"/var/lib/jenkins/.ssh/authorized_keys"
+'2  3  602  ~/.ssh/authorized_keys
+|4,50,3,602,1640600696,"~/.ssh/authorized_keys"
+'3  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,51,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+'4  1  13  ~/dy/a
+|4,52,1,13,1639834186,"~/dy/a"
+'5  1  3  ~/dy/a
+|4,53,1,3,1639834097,"~/dy/a"
+'6  1  18  ~/dy/a
+|4,54,1,18,1639834050,"~/dy/a"
+'7  1  18  ~/dy/a
+|4,55,1,18,1639834050,"~/dy/a"
+'8  1  0  ~/dy/a
+|4,56,1,0,1639833974,"~/dy/a"
+'9  1  0  ~/dy/a
+|4,57,1,0,1639833974,"~/dy/a"
 
 # Jumplist (newest first):
--'  1  11  ~/radhika/key3
-|4,39,1,11,1639678872,"~/radhika/key3"
--'  1  11  ~/radhika/key2
-|4,39,1,11,1639678852,"~/radhika/key2"
--'  1  11  ~/radhika/key2
-|4,39,1,11,1639678852,"~/radhika/key2"
--'  1  11  ~/radhika/key1
-|4,39,1,11,1639678823,"~/radhika/key1"
--'  1  11  ~/radhika/key1
-|4,39,1,11,1639678823,"~/radhika/key1"
--'  1  11  ~/radhika/key1
-|4,39,1,11,1639678823,"~/radhika/key1"
--'  1  11  ~/radhika/key1
-|4,39,1,11,1639678823,"~/radhika/key1"
--'  1  18  ~/radhika/college3
-|4,39,1,18,1639678644,"~/radhika/college3"
--'  1  18  ~/radhika/college3
-|4,39,1,18,1639678644,"~/radhika/college3"
--'  1  18  ~/radhika/college3
-|4,39,1,18,1639678644,"~/radhika/college3"
--'  1  18  ~/radhika/college3
-|4,39,1,18,1639678644,"~/radhika/college3"
--'  1  18  ~/radhika/college3
-|4,39,1,18,1639678644,"~/radhika/college3"
--'  1  18  ~/radhika/college3
-|4,39,1,18,1639678644,"~/radhika/college3"
--'  1  18  ~/radhika/college3
-|4,39,1,18,1639678644,"~/radhika/college3"
--'  1  18  ~/radhika/college3
-|4,39,1,18,1639678644,"~/radhika/college3"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678602,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678602,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678602,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678602,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678602,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678602,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678602,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678602,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678602,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678602,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678602,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678602,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678602,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678602,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678602,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678602,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678578,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678578,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678578,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678578,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678578,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678578,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678578,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678578,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678578,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678578,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678578,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678578,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678578,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678578,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678578,"~/radhika/college2"
--'  1  18  ~/radhika/college2
-|4,39,1,18,1639678578,"~/radhika/college2"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
--'  2  0  ~/radhika/college1
-|4,39,2,0,1639678530,"~/radhika/college1"
+-'  1  12  ~/file1
+|4,39,1,12,1641303755,"~/file1"
+-'  3  0  /var/lib/jenkins/.ssh/authorized_keys
+|4,39,3,0,1640601739,"/var/lib/jenkins/.ssh/authorized_keys"
+-'  3  0  /var/lib/jenkins/.ssh/authorized_keys
+|4,39,3,0,1640601739,"/var/lib/jenkins/.ssh/authorized_keys"
+-'  1  0  /var/lib/jenkins/.ssh/authorized_keys
+|4,39,1,0,1640601720,"/var/lib/jenkins/.ssh/authorized_keys"
+-'  1  0  /var/lib/jenkins/.ssh/authorized_keys
+|4,39,1,0,1640601720,"/var/lib/jenkins/.ssh/authorized_keys"
+-'  3  602  ~/.ssh/authorized_keys
+|4,39,3,602,1640600696,"~/.ssh/authorized_keys"
+-'  3  602  ~/.ssh/authorized_keys
+|4,39,3,602,1640600696,"~/.ssh/authorized_keys"
+-'  3  602  ~/.ssh/authorized_keys
+|4,39,3,602,1640600696,"~/.ssh/authorized_keys"
+-'  3  602  ~/.ssh/authorized_keys
+|4,39,3,602,1640600696,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1640600639,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1640600639,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1640600639,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1640600639,"~/.ssh/authorized_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  602  /usr/lib/jenkins/.ssh/authorised_keys
+|4,39,1,602,1640599161,"/usr/lib/jenkins/.ssh/authorised_keys"
+-'  1  13  ~/dy/a
+|4,39,1,13,1639834186,"~/dy/a"
+-'  1  13  ~/dy/a
+|4,39,1,13,1639834186,"~/dy/a"
+-'  1  13  ~/dy/a
+|4,39,1,13,1639834186,"~/dy/a"
+-'  1  13  ~/dy/a
+|4,39,1,13,1639834186,"~/dy/a"
+-'  1  13  ~/dy/a
+|4,39,1,13,1639834186,"~/dy/a"
+-'  1  13  ~/dy/a
+|4,39,1,13,1639834186,"~/dy/a"
+-'  1  13  ~/dy/a
+|4,39,1,13,1639834186,"~/dy/a"
+-'  1  13  ~/dy/a
+|4,39,1,13,1639834186,"~/dy/a"
+-'  1  13  ~/dy/a
+|4,39,1,13,1639834186,"~/dy/a"
+-'  1  13  ~/dy/a
+|4,39,1,13,1639834186,"~/dy/a"
+-'  1  13  ~/dy/a
+|4,39,1,13,1639834186,"~/dy/a"
+-'  1  13  ~/dy/a
+|4,39,1,13,1639834186,"~/dy/a"
+-'  1  13  ~/dy/a
+|4,39,1,13,1639834186,"~/dy/a"
+-'  1  13  ~/dy/a
+|4,39,1,13,1639834186,"~/dy/a"
+-'  1  13  ~/dy/a
+|4,39,1,13,1639834186,"~/dy/a"
+-'  1  13  ~/dy/a
+|4,39,1,13,1639834186,"~/dy/a"
+-'  1  3  ~/dy/a
+|4,39,1,3,1639834097,"~/dy/a"
+-'  1  3  ~/dy/a
+|4,39,1,3,1639834097,"~/dy/a"
+-'  1  3  ~/dy/a
+|4,39,1,3,1639834097,"~/dy/a"
+-'  1  3  ~/dy/a
+|4,39,1,3,1639834097,"~/dy/a"
+-'  1  3  ~/dy/a
+|4,39,1,3,1639834097,"~/dy/a"
+-'  1  3  ~/dy/a
+|4,39,1,3,1639834097,"~/dy/a"
+-'  1  3  ~/dy/a
+|4,39,1,3,1639834097,"~/dy/a"
+-'  1  3  ~/dy/a
+|4,39,1,3,1639834097,"~/dy/a"
+-'  1  3  ~/dy/a
+|4,39,1,3,1639834097,"~/dy/a"
+-'  1  3  ~/dy/a
+|4,39,1,3,1639834097,"~/dy/a"
+-'  1  3  ~/dy/a
+|4,39,1,3,1639834097,"~/dy/a"
+-'  1  3  ~/dy/a
+|4,39,1,3,1639834097,"~/dy/a"
+-'  1  3  ~/dy/a
+|4,39,1,3,1639834097,"~/dy/a"
+-'  1  3  ~/dy/a
+|4,39,1,3,1639834097,"~/dy/a"
+-'  1  3  ~/dy/a
+|4,39,1,3,1639834097,"~/dy/a"
+-'  1  3  ~/dy/a
+|4,39,1,3,1639834097,"~/dy/a"
+-'  1  18  ~/dy/a
+|4,39,1,18,1639834050,"~/dy/a"
+-'  1  18  ~/dy/a
+|4,39,1,18,1639834050,"~/dy/a"
+-'  1  18  ~/dy/a
+|4,39,1,18,1639834050,"~/dy/a"
+-'  1  18  ~/dy/a
+|4,39,1,18,1639834050,"~/dy/a"
+-'  1  18  ~/dy/a
+|4,39,1,18,1639834050,"~/dy/a"
+-'  1  18  ~/dy/a
+|4,39,1,18,1639834050,"~/dy/a"
+-'  1  18  ~/dy/a
+|4,39,1,18,1639834050,"~/dy/a"
+-'  1  18  ~/dy/a
+|4,39,1,18,1639834050,"~/dy/a"
+-'  1  18  ~/dy/a
+|4,39,1,18,1639834050,"~/dy/a"
+-'  1  18  ~/dy/a
+|4,39,1,18,1639834050,"~/dy/a"
+-'  1  18  ~/dy/a
+|4,39,1,18,1639834050,"~/dy/a"
+-'  1  18  ~/dy/a
+|4,39,1,18,1639834050,"~/dy/a"
+-'  1  18  ~/dy/a
+|4,39,1,18,1639834050,"~/dy/a"
+-'  1  18  ~/dy/a
+|4,39,1,18,1639834050,"~/dy/a"
+-'  1  18  ~/dy/a
+|4,39,1,18,1639834050,"~/dy/a"
+-'  1  18  ~/dy/a
+|4,39,1,18,1639834050,"~/dy/a"
+-'  1  0  ~/dy/a
+|4,39,1,0,1639833974,"~/dy/a"
+-'  1  0  ~/dy/a
+|4,39,1,0,1639833974,"~/dy/a"
+-'  1  0  ~/dy/a
+|4,39,1,0,1639833974,"~/dy/a"
+-'  1  0  ~/dy/a
+|4,39,1,0,1639833974,"~/dy/a"
+-'  1  0  ~/dy/a
+|4,39,1,0,1639833974,"~/dy/a"
+-'  1  0  ~/dy/a
+|4,39,1,0,1639833974,"~/dy/a"
+-'  1  0  ~/dy/a
+|4,39,1,0,1639833974,"~/dy/a"
+-'  1  0  ~/dy/a
+|4,39,1,0,1639833974,"~/dy/a"
+-'  1  0  ~/dy/a
+|4,39,1,0,1639833974,"~/dy/a"
+-'  1  0  ~/dy/a
+|4,39,1,0,1639833974,"~/dy/a"
+-'  1  0  ~/dy/a
+|4,39,1,0,1639833974,"~/dy/a"
+-'  1  0  ~/dy/a
+|4,39,1,0,1639833974,"~/dy/a"
+-'  1  0  ~/dy/a
+|4,39,1,0,1639833974,"~/dy/a"
+-'  1  0  ~/dy/a
+|4,39,1,0,1639833974,"~/dy/a"
+-'  1  0  ~/dy/a
+|4,39,1,0,1639833974,"~/dy/a"
+-'  1  0  ~/dy/a
+|4,39,1,0,1639833974,"~/dy/a"
+-'  1  10  ~/dy/a
+|4,39,1,10,1639833741,"~/dy/a"
+-'  1  10  ~/dy/a
+|4,39,1,10,1639833741,"~/dy/a"
+-'  1  10  ~/dy/a
+|4,39,1,10,1639833741,"~/dy/a"
+-'  1  10  ~/dy/a
+|4,39,1,10,1639833741,"~/dy/a"
+-'  1  10  ~/dy/a
+|4,39,1,10,1639833741,"~/dy/a"
+-'  1  10  ~/dy/a
+|4,39,1,10,1639833741,"~/dy/a"
+-'  1  10  ~/dy/a
+|4,39,1,10,1639833741,"~/dy/a"
+-'  1  10  ~/dy/a
+|4,39,1,10,1639833741,"~/dy/a"
+-'  1  10  ~/dy/a
+|4,39,1,10,1639833741,"~/dy/a"
+-'  1  10  ~/dy/a
+|4,39,1,10,1639833741,"~/dy/a"
+-'  1  10  ~/dy/a
+|4,39,1,10,1639833741,"~/dy/a"
+-'  1  10  ~/dy/a
+|4,39,1,10,1639833741,"~/dy/a"
+-'  1  10  ~/dy/a
+|4,39,1,10,1639833741,"~/dy/a"
+-'  1  10  ~/dy/a
+|4,39,1,10,1639833741,"~/dy/a"
+-'  1  10  ~/dy/a
+|4,39,1,10,1639833741,"~/dy/a"
 
 # History of marks within files (newest to oldest):
+
+> ~/file1
+	*	1641303753	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	0
+	+	2	33
+	+	1	12
+
+> /var/lib/jenkins/.ssh/authorized_keys
+	*	1640601737	0
+	"	3	0
+	^	3	0
+	.	2	603
+	+	2	603
+
+> ~/.ssh/authorized_keys
+	*	1640600693	0
+	"	3	602
+	^	3	603
+	.	3	602
+	+	3	602
+
+> /usr/lib/jenkins/.ssh/authorised_keys
+	*	1640599159	0
+	"	1	602
+	^	1	603
+	.	1	602
+	+	1	602
+
+> ~/dy/a
+	*	1639834185	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	3
+	+	1	13
+
+> ~/movie/seetha/ganesh
+	*	1639833340	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/movie/movie
+	*	1639833039	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
+
+> ~/radhika/earth2
+	*	1639753803	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/radhika/earth1
+	*	1639753778	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/radhika/earth
+	*	1639753740	0
+	"	1	12
+	^	1	13
+	.	1	13
+	+	1	13
+
+> ~/radhika/sun2
+	*	1639753271	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
+
+> ~/radhika/sun1
+	*	1639753242	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
+
+> ~/radhika/sun
+	*	1639753209	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
+
+> ~/radhika/moon2
+	*	1639753110	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
+
+> ~/radhika/moon1
+	*	1639753064	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
+
+> ~/radhika/moon
+	*	1639753023	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
+
+> ~/radhika/test4
+	*	1639751868	0
+	"	1	0
+	^	1	5
+	.	1	4
+	+	1	4
+
+> ~/radhika/college
+	*	1639751686	0
+	"	7	0
+	^	2	5
+	.	7	0
+	+	1	27
+	+	1	16
+	+	1	0
+	+	1	18
+	+	4	0
+	+	5	0
+	+	1	1
+	+	4	0
+	+	1	0
+	+	2	4
+	+	1	0
+	+	2	0
+	+	4	0
+	+	6	0
+	+	7	0
+
+> ~/raghava/test1
+	*	1639750961	0
+	"	1	15
+	^	1	16
+	.	1	15
+	+	1	15
 
 > ~/radhika/key3
 	*	1639678871	0
@@ -294,19 +452,6 @@
 	^	2	0
 	.	2	0
 	+	2	0
-
-> ~/radhika/college
-	*	1639677107	0
-	"	4	0
-	^	4	0
-	.	4	0
-	+	1	27
-	+	1	16
-	+	1	0
-	+	1	18
-	+	2	0
-	+	3	0
-	+	4	0
 
 > ~/radhika/sree
 	*	1639676439	0
@@ -518,14 +663,6 @@
 	^	1	26
 	.	1	25
 	+	1	25
-
-> ~/file1
-	*	1639294451	0
-	"	2	33
-	^	2	34
-	.	2	33
-	+	1	0
-	+	2	33
 
 > ~/kamal1/test2
 	*	1639285963	0

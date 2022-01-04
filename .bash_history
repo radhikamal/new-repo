@@ -1,349 +1,3 @@
-head -3 test1
-tail -3 test1
-crontab -1
-crontab -| cat test1
-cd
-clear
-crontab -l
-crontab -e
-cd root
-cd
-apt-get update
-clear
-apt-get install apache2
-clear
-ls
-wget 
-wget root@ip-172-31-5-129:~# wget
-wgethttps://dlcdn.apache.org/maven/maven-3/3.8.4/binaries/apache-maven-3.8.4-bin.tar.gz
-wget https://dlcdn.apache.org/maven/maven-3/3.8.4/binaries/apache-maven-3.8.4-bin.tar.gz
-tar .gz
-tar.gz
-tar-gz
-tar -gz
-tar.gz https://dlcdn.apache.org/maven/maven-3/3.8.4/binaries/apache-maven-3.8.4-bin.tar.gz
-tar -xvzf
-ls -l
-clear
-$?
-whereis apache2
-whereis mavenapache
-whereis maven
-clear
-touch file5
-vi file5
-grep linux file5
-grep is file5
-grep ^l file5
-vi test5
-cat test5
-clear
-touch test6
-vi test6
-grep is test6
-grep 
-grep ^l test6
-grep is$ test6
-grep good$ test6
-grep boy. test6
-grep i. test6
-grep good[a-d] test6
-grep good[a-z] test6
-grep [a-z] test6
-grep is[a-d] test6
-grep is[a-d] a[a-d] unix[a-z] test6
-grep linux[a-d] test6
-grep \n test6
-grep  test6
-clear
-cat test6
-grep a test6
-grep ^u test6
-grep ^l test6
-grep has$ test6
-grep is$ test6
-grep girl$ test6
-grep y$ test6
-vi test6
-cat test6
-grep g$ test6
-grep good
-cd
-grep ^linux test6
-grep good$ test6
-grep d$ test6
-cat test6
-grep l$ test6
-grep i. test6
-grep is test6
-grep linux test6
-grep \x test6
-grep linux[a-s] test6
-vi test6
-grep proc[a-d] test6
-grep proc[a-m] test6
-clear
-ps -ef
-ps -ef | grep 1374
-ps -ef | grep 1297
-ps -ef | grep 438
-clear
-sed 's /unix/linux test6
-cd
-cat test6
-vi test6
-cat test6
-sed's /linux/unix test6
-cd
-cat test6
-sed's /unix/linux test6
-cd
-clear
-vi test6
-cat test6
-sed 's /linux/unix/ test6
-cd
-clear
-lsof
-lsof | grep 20155
-$?
-lsof | grep 2181
-lsof | grep 3990
-clear
-lsof
-lsof | awk 2181
-lsof | grep 2131
-$?
-lsof | grep 3991
-lsof | grep 3738
-lsof | awk '{print $1}'
-lsof | awk '{print $1,$3}'
-clear
-awk
-awk clear
-cd
-clear
-sed 's/unix/linux/' test6
-cat test6
-sed 's/unix/linux/' test6
-sed 's/linux/unix/' test6
-vi test6
-cat test6
-sed 's/rose/jasmine/' test6
-sed 's/rose/jasmine/u' test6
-vi test6
-cat test6
-sed 's/rose/jasmine/j' test6
-vi test6
-cat test6
-sed 's/unix/linux/g' test6
-sed 's/unix/linux/2' test6
-sed 's/unix/linux/1' test6
-clear
-awk 
-awk <2> test6
-ps -ef | awk <2> test6
-ps -ef | awk {print $1} 
-clear
-ps -ef
-ps -ef | awk '{print $1}'
-clear
-ps -ef | awk '{print $1,$3}'
-ps -ef | awk '{print $1,$NF}'
-ps -ef | awk '{print$NF>0}'
-$?
-ps -ef | awk '/start/{print}'
-awk
-clear
-lsof 
-lsof | grep 79389
-$?
-lsof | grep 
-lsof | grep 9060
-$?
-clear
-lsof 
-lsof | grep 3
-cd
-clear
-ls
-find -name file1
-find -name File1
-$?
-find -iname File1
-find -type f -perm 655
-find -type f -perm 777
-find -type f -perm 644
-find -type f -perm 655
-find -type f -perm 644
-find -type f -perm 754
-find -type f -perm 654
-find -type f empty
-find -type f -empty
-cat test4
-clear
-find -mtime 1
-find -mtime -1
-find -mtime +1
-find -mtime -5
-clear
-find -mtime 1
-find -mtime -1
-find -mtime +1
-find -mtime -5
-find -type f -empty
-find -type f -perm 655
-find -type f -perm 654
-find -type f -perm 644
-clear
-find -name file1
-find -iname File1
-find -type f -perm 654
-find -type f -perm 655
-find -type f -perm 644
-find - type f -empty
-find -mtime 1
-find -mtime +1
-find -mtime -1
-clear
-* * * * */2
-&/
-$?
-clear
-* * * * */2
-clear
-git init
-ls
-rm file file1 file5 ggg2 test5 test6 time
-ls
-rm 0 223 3 aa apache-maven-3.8.4-bin.tar.gz
-ls
-cd test1
-cd
-cd krish
-cd
-git init
-clear
-ls
-ls -la
-touch test2  test3 file1 file2 file3
-ls
-test1
-mkdir devops
-ls
-cd devops
-pwd
-git init
-ls -la
-git init
-ls -la
-ls
-clear
-git status
-touch test1 
-ls
-cat test1
-git status
-git add test1
-git status
-git commit -m 'this is my first commit'
-git status
-ls
-vi test1
-git status
-git add test1
-git status
-git commit -m' this is my modified commit'
-git status
-ls
-git ls-files
-vi test2
-ls
-git ls-files
-git add test2
-git status
-git commit -m'this is third modified commit'
-git status
-git ls-files
-clear
-git status
-git log
-vi test2
-git status
-gid add test2
-git add test2
-git status
-git commit -m'i'
-git status
-git add.
-git status
-git log
-git log --oneline
-git fetch test1
-clear
-git status
-ls
-clear
-ls
-git status
-vi test3
-git status
-vi test1
-git status
-git add.
-git status
-git log 
-git diff test3
-git status
-git diff -- staged test3
-git status
-clear
-git status
-git diff
-git diff test3
-git add .
-git status
-git diff --staged test1
-git status
-git commit -m"io" 
-git status
-ls
-clear
-ls
-vi test4
-vi test2
-git status
-git diff
-git add.
-git status
-git diff 
-git diff test4
-git status
-git add.
-git status
-git diff
-git add .
-git status
-git diff --staged test2
-git status
-git commit -m"text"
-git status
-vi test5 
-git status
-vi test3
-git status
-git diff 
-git diff test5
-git stttus
-git diff --staged test5
-git status
-git diff
-git add.
-git add .
-git status
-git diff --staging test5
-git diff --staging test3
-git diff --staged test3
 git commit -m'msg'
 git status
 clear
@@ -1998,3 +1652,349 @@ cd
 ls
 git ls-files
 clear
+mkdir radhika
+ls
+touch file1
+ls
+mkdir directory
+ls
+cd directory
+cd
+cd directory
+ls
+cat file1
+cat devops
+cat krish
+git branch
+ls
+git ls-files
+git branch feature1
+git ls-files
+git checkout master
+git checkout feature1
+git ls-files
+clear
+git status
+git add .
+git status
+git commit -m'msg'
+git status
+git commit --amend -m'msg'
+git statusclear
+clear
+mkdir sony
+cd sony
+ls
+touch file1
+ls
+cd 
+adduser lenovo
+su lenovo
+userdel lenovo
+cat /etc/passwd
+userdel vvv
+userdel jjj
+userdel kkk
+userdel yyy
+userdel xyz
+userdel abc
+userdel ccc
+userdel bbb
+userdel aaa
+userdel krish
+userdel laddu
+userdel kethan
+cat /etc/group
+groupdel ddd
+groupdel hhh
+delgroup hhh
+groupdel jahoo
+groupdel whatsup
+groupdel tool
+groupdel fb
+groupdel ssl
+clear
+adduser radhi
+su radhi
+cd
+mkdir raghava
+ls
+cd raghava
+ls
+git branch
+vi test1
+git add .
+git status
+git commit -m'hh'
+git status
+git add sony
+git ls-files
+git commit -m 'tt'
+vi test1
+git add .
+git commit -m"cc"
+git status
+git commit --amend --reset-raghava
+git commit --amend --reset-root
+clear
+cd 
+ls
+cd radhika
+ls
+ls -la
+git branch
+ls
+vi college
+git add .
+git commit -m's'
+git status
+git branch feature1
+ls
+vi college
+git add.
+git add .
+git commit -m 'j'
+git status
+git checkout master
+git branch
+git checkout feature1
+ls
+vi college
+git add .
+git commit -m'f'
+git status
+git checkout master
+git merge feature1
+git status
+cat college
+git checkout feature1
+cat college
+vi college
+git add .
+git commit -m 'v'
+git status
+git checkout master
+git merge feature1
+vi college
+git checkout feature1
+cat college
+git checkout master
+git add .
+git commit -m 'n'
+git status
+git merge feature1
+git commit --amend -m'college'
+git commit --amend -m 'college'
+vi test4
+git add .
+git commit -m 'bad'
+git status
+git log
+git commit --amend -m"good"
+git log
+git log --oneline
+git tag qq d7bbc19
+git log --oneline
+git stash
+touch test7
+git add .
+git status
+git stash
+git stashlist
+git stash list
+touch test8
+git add .
+git status
+git stash
+git stashlist
+git stash list
+git stash pop stash@{1}
+git stashlist
+git stash list
+git stash clear
+git stash list
+git status
+git reset test7
+git status
+git rm test7
+git status
+git rm test7
+git status
+git commit -m 'j'
+git status
+git add .
+git commit -m"toy"
+git branch
+ls
+git rm college
+git rm college1
+git rm college2
+git rm college3
+git rm key1
+git rm key2
+git rm test4
+git rm test7
+ls
+vi moon 
+git add .
+git commit -m"this is moon"
+vi moon1
+git add .
+git commit -m"this is moon1"
+vi moon2
+git add .
+git commit -m"this is moon2"
+git checkout feature1
+ls
+git rm college
+git rm college1
+git rm college2
+git rm college3
+git rm key1
+ls
+vi sun
+git add .
+git commit -m"thi is sun"
+vi sun1
+git add .
+git commit -m"thi is sun1"
+vi sun2
+git add .
+git commit -m"thi is sun2"
+git log --oneline
+git checkout master
+git log --oneline
+git cherry-pick 
+git cherry-pick ce7bf44
+git log --oneline
+git checkout master
+ls
+git checkout feature1
+ls
+git rm sun sun1 sun2
+ls
+git branch -D feature1
+git checkout feature1
+git branch -D feature1
+git branch feature2
+git checkout feature2
+vi earth
+git add .
+git commit -m"this is earth"
+vi earth1
+git add .
+git commit -m"this is earth1"
+vi earth2
+git add .
+git commit -m"this is earth2"
+git log --oneline
+clear
+cat feature2
+git log --oneline
+git rebase master
+git log --oneline
+git checkout master
+git rebase feature2
+git log --oneline
+exit
+cd radhika
+cd
+cd radhika
+git remote
+$?
+git remote add k1 https://github.com/radhikamal/kethan-krish.git
+git push k1 --all
+git fetch https://github.com/radhikamal/kethan-krish.git
+git clone https://github.com/radhikamal/kethan-krish.git
+cd
+ls
+cd
+ls
+cd radhika
+ls
+c
+cd
+cat /etc/passwd
+clear
+su radhi
+cd devops
+ls
+touch test4
+pwd
+cd
+su radhi
+LS
+ls
+rmdir krish
+rmdir raghava
+rmdir sony
+rm test1
+ls
+rm -rf sony
+rm -rf krish
+ls
+cd
+git branch
+git ls-files
+cd file1
+cd radhika
+ls
+cat earth
+cd
+mkdir lilly
+ls
+vi lilly
+cd
+cd radhika
+ls
+su kamal
+su radhi
+cd
+clear
+cd
+useradd -d /var/lib/jenkins jenkins
+ls
+cd  /var/lib/jenkins
+mkdir  /var/lib/jenkins/.ssh
+cd /var
+cd/lib
+cd /lib
+cd jenkins
+ls
+mkdir jenkins
+ls
+cd jenkins
+mkdir .ssh
+cd .ssh
+ls
+touch authorised_keys
+vi authorised_keys
+cd
+chown -R jenkins /var/lib/jenkins/.ssh
+cd
+ssh-keygen
+cat pk.pub
+cd .ssh
+ls
+vi authorized_keys
+cd
+java --version
+cat open JDK
+java --version
+mvn --version
+cat /etc/passwd
+cd /var/lib/jenkins
+cd /var/lib
+mkdir jenkins
+cd jenkins
+mkdir .ssh
+cd .ssh
+touch authorized_keys
+vi authorized_keys
+chmod 600 authorized_keys
+cd ..
+chmod 700 .ssh
+ssh-keygen
+cd .ssh
+ssh-keygen
+cat pk.pub
